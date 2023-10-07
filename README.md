@@ -1,1 +1,1 @@
-# DPIUNAWARE
+The high-resolution screen may cause display issues with some applications when using system screen scaling on Win10/Win11 systems. Therefore, this convenient tool has been developed to disable the scaling awareness feature for specific applications by manipulating the registry.
